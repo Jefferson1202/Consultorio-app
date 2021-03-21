@@ -1,11 +1,11 @@
 #  **Aplicação Web Consultório ReactJS**
 ---
 ### Aplicacão Web para um consultório Dentário com as seguintes páginas desenvolvidas com react 
-* **Home:** 
-* **Agenda:** 
-* **Contato:** Exibe meu nome e e-mail de cont
-* **Convênios:**
-* **Missão:**
+* **Home** 
+* **Agenda** 
+* **Contato**
+* **Convênios**
+* **Missão**
 
 # Framework utilizado
 * ReactJS
