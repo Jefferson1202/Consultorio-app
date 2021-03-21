@@ -7,4 +7,4 @@
 
 # Framework utilizado
 * ReactJS
-* [Tutorial iniciando com ReactJS](https://www.visualdicas
+* [Tutorial iniciando com ReactJS](https://www.visualdicas)
