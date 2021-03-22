@@ -29,7 +29,7 @@
 * [Tutorial](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
 
 ## React-router-dom
-* [Tutorial] (https://reactrouter.com/web/guides/quick-start)
+* [Tutorial](https://reactrouter.com/web/guides/quick-start)
 
 ## Fazendo deploy
 * [Deploy do React](https://king.host/wiki/artigo/como-fazer-deploy-de-uma-aplicacao-react/)
